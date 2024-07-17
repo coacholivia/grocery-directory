@@ -59,6 +59,7 @@ html, body {
     width: 30px;
     display: inline-block;
 }
+
 #best{
     margin: 5px;
     font-size: 30px;
@@ -73,4 +74,3 @@ html, body {
     background-color: rgb(190, 138, 190);
     transition: 2s;
 }
-
