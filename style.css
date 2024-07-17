@@ -53,4 +53,18 @@ html, body {
 #CassIMG {
     width: 30px;
     display: inline-block;
+
+#best{
+    margin: 5px;
+    font-size: 30px;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+#best:hover{
+    margin: 8px;
+    padding: 12px;
+    font-size: 35px;
+    background-color: rgb(190, 138, 190);
+    transition: 2s;
 }
