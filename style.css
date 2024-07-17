@@ -37,3 +37,18 @@ html, body {
 }
 
 /* You may add your own below, if you wish. Use an id */
+
+#best{
+    margin: 5px;
+    font-size: 30px;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+#best:hover{
+    margin: 8px;
+    padding: 12px;
+    font-size: 35px;
+    background-color: rgb(190, 138, 190);
+    transition: 2s;
+}
