@@ -1,0 +1,39 @@
+/* Scroll to the bottom of the file to add your own style elements */
+
+html, body {
+    /* Do not modify */
+    height: 100%;
+    margin: 0px;
+}
+
+#directory-page {
+    /* Do not modify */
+    background-image: linear-gradient(rgb(242, 244, 254), rgb(227, 231, 251));
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    /* Why so many fonts? Certain browsers only have certain fonts, and we want to make sure this renders in every browser */
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#title {
+    /* Do not modify */
+    color: rgb(1, 1, 77);
+}
+
+#team-edge-list {
+    /* Do not modify */
+    justify-content: center;
+    background-image: linear-gradient(rgb(227, 231, 251), rgb(242, 244, 254));
+    border: 3px;
+    border-style: groove;
+    border-color: rgb(227, 231, 251);
+    line-height: 120%;
+    padding: 40px;
+    padding-left: 50px;
+}
+
+/* You may add your own below, if you wish. Use an id */
