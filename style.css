@@ -36,7 +36,19 @@ html, body {
     padding-left: 50px;
 }
 
+#james_style{
+    /* Add your own style here */
+    color: rgb(1, 1, 77);
+    font-size: 20px;
+
+}
+
 /* You may add your own below, if you wish. Use an id */
+
+#MattheuLink:hover{
+    color: red;
+}
+
 .Cass {
     color: white;
     font-family: 'Courier New', Courier, monospace;
@@ -54,6 +66,7 @@ html, body {
     width: 30px;
     display: inline-block;
 }
+
 #best{
     margin: 5px;
     font-size: 30px;
