@@ -37,3 +37,40 @@ html, body {
 }
 
 /* You may add your own below, if you wish. Use an id */
+
+#MattheuLink:hover{
+    color: red;
+}
+
+.Cass {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    text-decoration: none;
+    padding: 10px;
+    list-style:none;
+    transition-duration: 0.5s;
+}
+.Cass:hover {
+    color: yellow;
+    margin: 10px;
+}
+#CassIMG {
+    width: 30px;
+    display: inline-block;
+}
+
+#best{
+    margin: 5px;
+    font-size: 30px;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+#best:hover{
+    margin: 8px;
+    padding: 12px;
+    font-size: 35px;
+    background-color: rgb(190, 138, 190);
+    transition: 2s;
+}
