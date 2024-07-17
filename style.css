@@ -50,3 +50,7 @@ html, body {
     color: yellow;
     margin: 10px;
 }
+#CassIMG {
+    width: 30px;
+    display: inline-block;
+}
