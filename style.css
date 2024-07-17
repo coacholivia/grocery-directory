@@ -44,3 +44,11 @@ html, body {
     font-style: oblique;
     font-weight: bold;
 }
+
+#best:hover{
+    margin: 8px;
+    padding: 12px;
+    font-size: 35px;
+    background-color: rgb(190, 138, 190);
+    transition: 2s;
+}
