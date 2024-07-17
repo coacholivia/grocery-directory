@@ -37,3 +37,10 @@ html, body {
 }
 
 /* You may add your own below, if you wish. Use an id */
+
+#best{
+    margin: 5px;
+    font-size: 30px;
+    font-style: oblique;
+    font-weight: bold;
+}
